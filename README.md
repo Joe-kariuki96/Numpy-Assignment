@@ -23,4 +23,6 @@ This function calculates the weighted average along specified axes. Examples cov
 
 Used to determine the determinant of a square matrix, this function showcases its prowess through examples with 2x2 and 3x3 matrices. The importance of square matrices for this function is highlighted.
 
-numpy.full(): The full function returns a new array of a given shape and data type filled with a specified fill value. Examples demonstrate how to create arrays of various shapes and data types, emphasizing its role in constructing arrays tailored to specific needs.
+## numpy.full():
+
+The full function returns a new array of a given shape and data type filled with a specified fill value. Examples demonstrate how to create arrays of various shapes and data types, emphasizing its role in constructing arrays tailored to specific needs.
